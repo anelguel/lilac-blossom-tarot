@@ -5,22 +5,23 @@
 
 
 @{
-
 Random random = new Random();
 int index = random.Next(0, 22);
 var randomCard = @Model.DeckResults.cards[index];
 
-}
-<h1>Type:               @randomCard.type</h1>
-<h2>name short:         @randomCard.name_short</h2>
-<h2>name:               @randomCard.name</h2>
-<h1>value:              @randomCard.value</h1>
-<h2>value_int:          @randomCard.value_int</h2>
-<h2>Meaning_up:         @randomCard.meaning_up</h2>
-<h2>meaning_down:       @randomCard.meaning_rev</h2>
-<h2>desc_up:            @randomCard.desc_up</h2>
-<img src="~/deck/@(randomCard.value_int).png" />
+<p>Type:               @randomCard.type</p>
+<p>name short:         @randomCard.name_short</p>
+<p>name:               @randomCard.name</p>
+<p>value:              @randomCard.value</p>
+<p>value_int:          @randomCard.value_int</p>
+<p>Meaning_up:         @randomCard.meaning_up</p>
+<p>meaning_down:       @randomCard.meaning_rev</p>
+<p>desc_up:            @randomCard.desc_up</p>
+<img src="~/deck/@(randomCard.value_int).png" alt="card image" width=200px />
+<h4>Didn't like your result? Draw another card here:</h4>
+<a asp-page="Spreads/DailyPull" asp-route-cache-busting="@DateTime.Now.Ticks">Refresh</a>
 
+}
 
 
 

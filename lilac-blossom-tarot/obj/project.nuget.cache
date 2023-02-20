@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "AN3MqRqHGyFanzrIRfFKSKqn8QdgFnF4rW1jLK0Mig2tlgfyFrqsQPexmRYc2GREKT2d92/8tys/Wi/abL4s3w==",
+  "dgSpecHash": "KmZPdjLDlAwYZvambNA2TCoce6h7rSp6Y+SFhCDi8IA5hRyFe+9TUiL7iKQDQ+6p3R1itabSd3Iskjl/VVumuQ==",
   "success": true,
   "projectFilePath": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\AnelGuel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

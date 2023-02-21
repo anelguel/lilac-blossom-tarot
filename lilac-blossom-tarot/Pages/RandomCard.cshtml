@@ -1,0 +1,77 @@
+﻿@model lilac_blossom_tarot.Pages.Spreads.DailyPullModel
+
+@{
+
+Random random = new Random();
+int index = random.Next(0, 22);
+
+var randomCard = @Model.DeckResults.cards[index];
+
+
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+    <img src="~/deck/questionmark.png" alt="card image" width=200px />
+    </div>
+    <div class="flip-card-back">
+<img src="~/deck/@(randomCard.value_int).png" alt="card image" width=200px />
+    </div>
+  </div>
+</div>
+
+<br />
+<p>Type:               @randomCard.type</p>
+<p>name short:         @randomCard.name_short</p>
+<p>name:               @randomCard.name</p>
+<p>value:              @randomCard.value</p>
+<p>value_int:          @randomCard.value_int</p>
+<p>Meaning_up:         @randomCard.meaning_up</p>
+<p>meaning_down:       @randomCard.meaning_rev</p>
+<p>desc_up:            @randomCard.desc_up</p>
+}
+
+<style>
+/* Container for the flip card */
+.flip-card {
+  background-color: white;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+}
+
+/* Flip card inner container */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Flip card front face */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+/* Flip card front face styling */
+.flip-card-front {
+  background-color: white;
+  color: black;
+}
+
+/* Flip card back face styling */
+.flip-card-back {
+  background-color: white;
+  color: white;
+  transform: rotateY(180deg);
+}
+  
+/* Flip card animation on hover */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+</style>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8+TZQ+5kre90LvZgS3BTKonyeugUjG4cAis2SWQOwKo=",
+  "Hash": "aOcjFD8/jC06MOcI/b1OYltdYLl+/n6Md8me4V412XU=",
   "Source": "lilac-blossom-tarot",
   "BasePath": "_content/lilac-blossom-tarot",
   "Mode": "Default",
@@ -440,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\deck\\9.png"
+    },
+    {
+      "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\deck\\questionmark.png",
+      "SourceId": "lilac-blossom-tarot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\",
+      "BasePath": "_content/lilac-blossom-tarot",
+      "RelativePath": "deck/questionmark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\deck\\questionmark.png"
     },
     {
       "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\deck\\webp-jpg-files\\01-magician.webp",

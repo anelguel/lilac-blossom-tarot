@@ -7,6 +7,12 @@ D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\lilac-blossom-tarot.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\ref\lilac-blossom-tarot.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\lilac-blossom-tarot.pdb
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.csproj.AssemblyReference.cache
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.GeneratedMSBuildEditorConfig.editorconfig
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.AssemblyInfoInputs.cache
@@ -20,6 +26,7 @@ D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\scopedcss\bundle\lilac-blossom-tarot.styles.css
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\scopedcss\projectbundle\lilac-blossom-tarot.bundle.scp.css
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.csproj.CopyComplete
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\ref\lilac-blossom-tarot.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.pdb

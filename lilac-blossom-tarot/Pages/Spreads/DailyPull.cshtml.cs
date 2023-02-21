@@ -8,13 +8,7 @@ namespace lilac_blossom_tarot.Pages.Spreads
 {
     public class DailyPullModel : PageModel
     {
-        private readonly IMemoryCache _memoryCache;
-
-        public DailyPullModel(IMemoryCache memoryCache) =>
-            _memoryCache = memoryCache;
-
         public Cards? DeckResults { get; set; }
-
 
         public void OnGet()
         {
@@ -22,7 +16,6 @@ namespace lilac_blossom_tarot.Pages.Spreads
 
             DeckResults = JsonSerializer.Deserialize<Cards>(rawJson);
 
-           
         }
     }
 }

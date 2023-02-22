@@ -1,4 +1,174 @@
 ﻿@page
 @model lilac_blossom_tarot.Pages.Spreads.PastPresentFutureModel
 @{
+
+Random random = new Random();
+
+var randomListofCards = new List<int>();
+while (randomListofCards.Count < 3)
+    {
+        int index = random.Next(0, 22);
+
+        if (!randomListofCards.Contains(index))
+        {
+            randomListofCards.Add(index);
+        }
+    }
+
+var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToList();
+
+  
+<div class="card-container" id="#top">
+
+  <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text1').classList.toggle('show')">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="~/deck/questionmark.png" alt="Image" width=200px>
+      </div>
+      <div class="flip-card-back">
+        <img src="~/deck/@(threeCards[0].value_int).png" alt="card image" width=200px />
+      </div>
+    </div>
+    <center><a href="#text1">Past - deatils</a></center>
+  </div>
+
+
+  <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text2').classList.toggle('show')">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="~/deck/questionmark.png" alt="Image" width=200px>
+      </div>
+      <div class="flip-card-back">
+       <img src="~/deck/@(threeCards[1].value_int).png" alt="card image" width=200px />
+      </div>
+    </div>
+        <center><a href="#text2">present - deatils</a></center>
+  </div>
+
+
+  <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text3').classList.toggle('show')">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="~/deck/questionmark.png" alt="Image" width=200px>
+      </div>
+      <div class="flip-card-back">
+        <img src="~/deck/@(threeCards[2].value_int).png" alt="card image" width=200px />
+      </div>
+    </div>
+           <center><a href="#text3">future - deatils</a></center>
+  </div>
+
+  <div id="text1" class="text">
+    <h3>Past</h3>
+    <p><h4>@threeCards[0].name</h4></p>
+    <p><b>Summary:</b></p>
+    <p>@threeCards[0].meaning_up</p>
+    <p><b>Description:</b></p>
+    <p>@Html.Raw(@threeCards[0].desc_up)</p>
+    <a href="#top">back to top</a>
+    <br />
+    <br />
+    <br />
+    <br />
+
+  </div>
+
+  <div id="text2" class="text">
+    <h3>Present</h3>
+    <p><h4>@threeCards[1].name</h4></p>
+    <p><b>Summary:</b></p>
+    <p>@threeCards[1].meaning_up</p>
+    <p><b>Description:</b></p>
+    <p>@Html.Raw(@threeCards[1].desc_up)</p>
+    <a href="#top">back to top</a>
+    <br /> 
+    <br />
+    <br />
+    <br />
+
+  </div>
+
+  <div id="text3" class="text">
+    <h3>Future</h3>
+    <p><h4>@threeCards[2].name</h4></p>
+    <p><b>Summary:</b></p>
+    <p>@threeCards[2].meaning_up</p>
+    <p><b>Description:</b></p>
+    <p>@Html.Raw(@threeCards[2].desc_up)</p>
+    <a href="#top">back to top</a>
+    <br />
+    <br />
+    <br />
+    <br />
+
+  </div>
+</div>
+
 }
+
+
+<style>
+  /* Container for the flip cards and text */
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* Flip card styles */
+  .flip-card {
+    background-color: #f1f1f1;
+    width: 200px;
+    height: 275px;
+    perspective: 1000px;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Flip card inner container */
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Flip card front face */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+  }
+  
+  /* Flip card front face styling */
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+  }
+  
+  /* Flip card back face styling */
+  .flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+  }
+  
+  /* Flipped state styling */
+  .flip-card.flipped .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Text styles */
+  .text {
+    width: 100%;
+    display: none;
+  }
+  
+  /* Show text when the show class is present */
+  .show {
+    display: block;
+  }

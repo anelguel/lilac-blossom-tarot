@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/src/Personal/lilac-blossom-tarot/lilac-blossom-tarot/lilac-blossom-tarot/Pages/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/src/Personal/lilac-blossom-tarot/lilac-blossom-tarot/lilac-blossom-tarot/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

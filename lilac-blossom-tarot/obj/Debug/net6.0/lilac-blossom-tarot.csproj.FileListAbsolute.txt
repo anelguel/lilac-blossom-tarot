@@ -13,7 +13,6 @@ D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.csproj.AssemblyReference.cache
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.GeneratedMSBuildEditorConfig.editorconfig
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.AssemblyInfoInputs.cache
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.AssemblyInfo.cs
@@ -31,3 +30,4 @@ D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\ref\lilac-blossom-tarot.dll
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.pdb
 D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.genruntimeconfig.cache
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Debug\net6.0\lilac-blossom-tarot.csproj.AssemblyReference.cache

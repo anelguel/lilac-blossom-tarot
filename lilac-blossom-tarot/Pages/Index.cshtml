@@ -4,8 +4,47 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    <a asp-page="/Spreads/DailyPull" class="btn btn-primary">Pull Card</a>
+<div class="container">
+  <div class="logo">
+    <img src="~/deck/questionmark.png" alt="Logo">
+  </div>
+  <div class="text">
+      <h3>Welcome!</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada risus at tellus euismod, vel malesuada mauris lobortis. Nulla in nulla eget justo posuere rutrum. Nulla rhoncus pharetra ipsum, sit amet semper ex lobortis nec. Proin malesuada velit vel leo bibendum, sed venenatis est dapibus. </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada risus at tellus euismod, vel malesuada mauris lobortis. Nulla in nulla eget justo posuere rutrum. Nulla rhoncus pharetra ipsum, sit amet semper ex lobortis nec. Proin malesuada velit vel leo bibendum, sed venenatis est dapibus. </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada risus at tellus euismod, vel malesuada mauris lobortis. Nulla in nulla eget justo posuere rutrum. Nulla rhoncus pharetra ipsum, sit amet semper ex lobortis nec. Proin malesuada velit vel leo bibendum, sed venenatis est dapibus. </p>
+  </div>
 </div>
+<br />
+    <center><a asp-page="/Spreads/DailyPull" class="btn btn-primary">Pull Card</a>
+        <br />
+        <br />
+        <p>or</p>
+        <p><a asp-page="/Spreads/AllSpreads">check out our other spreads</a></p>
+    </center>
+
+<style>
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.container {
+  display: flex;
+}
+
+.logo {
+  flex: 1 1 25%;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.text {
+  flex: 1 1 75%;
+  margin-left: 1.4rem;
+}
+
+</style>

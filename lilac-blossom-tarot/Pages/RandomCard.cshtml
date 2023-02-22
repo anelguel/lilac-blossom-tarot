@@ -8,25 +8,26 @@ int index = random.Next(0, 22);
 var randomCard = @Model.DeckResults.cards[index];
 
 <div class="container">
-<div class="flip-card" onclick="this.classList.toggle('flipped'); document.querySelector('.text').classList.toggle('show')">
-<div class="flip-card-inner">
-<div class="flip-card-front">
-<img src="~/deck/questionmark.png" alt="card image" width=200px />
-</div>
-<div class="flip-card-back">
-<img src="~/deck/@(randomCard.value_int).png" alt="card image" width=200px />
-</div>
-</div>
-</div>
-<div class="text">
-<p><b>Card:</b>         @randomCard.name</p>
-<p><b>Summary:</b>      @randomCard.meaning_up</p>
-<p><b>Description:</b>  @Html.Raw(@randomCard.desc_up)</p>
-</div>
+    <div class="flip-card" onclick="this.classList.toggle('flipped'); document.querySelector('.text').classList.toggle('show')">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img src="~/deck/questionmark.png" alt="card image" width=200px />
+            </div>
+            <div class="flip-card-back">
+                <img src="~/deck/@(randomCard.value_int).png" alt="card image" width=200px />
+            </div>
+        </div>
     </div>
+
+    <div class="text">
+        <p><b>Card:</b>         @randomCard.name</p>
+        <p><b>Summary:</b>      @randomCard.meaning_up</p>
+        <p><b>Description:</b>  @Html.Raw(@randomCard.desc_up)</p>
+        <p><a asp-page="./Spreads/DailyPull">Pull a new card</a></p>
+    </div>
+</div>
     
 }
-
 
 <style>
   /* Container for the flip card and text */

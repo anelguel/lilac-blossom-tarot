@@ -12,7 +12,8 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">lilac_blossom_tarot</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">
+                    <img src="~/images/LILACBLOSSOMTAROT.png" height=100px/></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -25,12 +26,19 @@
                         <li class="nav-item">
                             <a class="btn btn-primary" asp-area="" asp-page="./Spreads/DailyPull" >Quick Daily Pull</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="./Spreads/PastPresentFuture">Past, Present, Future</a>
-                        </li>
+                        <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Spreads
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                    <li><a class="dropdown-item" asp-page="Spreads/DailyPull">Daily Pull</a></li>
+                                    <li><a class="dropdown-item" asp-page="Spreads/PastPresentFuture">Past Present Future</a></li>
+                                </ul>
+                            </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="./About/About">About</a>
                         </li>
+
                     </ul>
                 </div>
             </div>

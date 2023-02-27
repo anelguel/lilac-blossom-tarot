@@ -17,7 +17,6 @@ while (randomListofCards.Count < 5)
 
 var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToList();
 
-  
 <div class="card-container" id="#top">
 
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text1').classList.toggle('show')">

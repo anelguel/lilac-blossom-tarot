@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bLdkn2O9tM/cpmv3ew1YQ55ze7zP+1/qvMBSH5xSMFU=",
+  "Hash": "sjHuhmCjEXrWuzUnHBADPuP7YTJbgkmCTgnu4v8+oeU=",
   "Source": "lilac-blossom-tarot",
   "BasePath": "_content/lilac-blossom-tarot",
   "Mode": "Default",
@@ -3043,6 +3043,23 @@
       "OriginalItemSpec": "wwwroot\\images\\creambackground7.png"
     },
     {
+      "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\images\\favicon.png",
+      "SourceId": "lilac-blossom-tarot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\",
+      "BasePath": "_content/lilac-blossom-tarot",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
       "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\images\\flower.png",
       "SourceId": "lilac-blossom-tarot",
       "SourceType": "Discovered",
@@ -3075,40 +3092,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\flower2.png"
-    },
-    {
-      "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\images\\LILAC BLOSSOM TAROT2.png",
-      "SourceId": "lilac-blossom-tarot",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\",
-      "BasePath": "_content/lilac-blossom-tarot",
-      "RelativePath": "images/LILAC BLOSSOM TAROT2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\LILAC BLOSSOM TAROT2.png"
-    },
-    {
-      "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\images\\LILAC BLOSSOM TAROT3.png",
-      "SourceId": "lilac-blossom-tarot",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\",
-      "BasePath": "_content/lilac-blossom-tarot",
-      "RelativePath": "images/LILAC BLOSSOM TAROT3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\LILAC BLOSSOM TAROT3.png"
     },
     {
       "Identity": "D:\\src\\Personal\\lilac-blossom-tarot\\lilac-blossom-tarot\\lilac-blossom-tarot\\wwwroot\\images\\LILACBLOSSOMTAROT.png",

@@ -22,14 +22,15 @@ var randomCard = @Model.DeckResults.cards[index];
             </div>
         </div>
     </div>
-
     <div class="text">
+    <div class="rounded-border">
         <p><b>Card:</b>         @randomCard.name</p>
         <p><b>Summary:</b>      @randomCard.meaning_up</p>
         <p><b>Description:</b>  @Html.Raw(@randomCard.desc_up)</p>
         <p><a asp-page="./Spreads/DailyPull">Pull a new card</a></p>
         <br />
         <center><img src="~/images/dividers/1.png" width=100px /></center>
+    </div>
     </div>
 </div>
     

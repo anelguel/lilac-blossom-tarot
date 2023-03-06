@@ -16,3 +16,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.rounded-border {
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 10px; /* Border radius */
+    padding: 10px; /* Padding inside the border */
+    background-color: #F9F8F3; /* Background color */
+}

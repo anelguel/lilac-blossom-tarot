@@ -80,8 +80,14 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     </div>
            <center><a href="#text5">text 5</a></center>
   </div>
+  </div>
+
+  <br />
+  <br />
+  <br />
 
   <div id="text1" class="text">
+    <div class="rounded-border">
     <h3>Past</h3>
     <p><h4>@fiveCards[0].name</h4></p>
     <p><b>Summary:</b></p>
@@ -89,15 +95,15 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <p><b>Description:</b></p>
     <p>@Html.Raw(fiveCards[0].desc_up)</p>
     <a href="#top">back to top</a>
+    </div>
     <br />
     <center><img src="~/images/dividers/4.png" width=100px /></center>
-    <br />
-    <br />
     <br />
 
   </div>
 
   <div id="text2" class="text">
+    <div class="rounded-border">
     <h3>Present</h3>
     <p><h4>@fiveCards[1].name</h4></p>
     <p><b>Summary:</b></p>
@@ -105,15 +111,15 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <p><b>Description:</b></p>
     <p>@Html.Raw(fiveCards[1].desc_up)</p>
     <a href="#top">back to top</a>
+    </div>
     <br /> 
     <center><img src="~/images/dividers/5.png" width=100px /></center>
-    <br />
-    <br />
     <br />
 
   </div>
 
   <div id="text3" class="text">
+    <div class="rounded-border">
     <h3>Future</h3>
     <p><h4>@fiveCards[2].name</h4></p>
     <p><b>Summary:</b></p>
@@ -121,15 +127,15 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <p><b>Description:</b></p>
     <p>@Html.Raw(fiveCards[2].desc_up)</p>
     <a href="#top">back to top</a>
+    </div>
     <br />
     <center><img src="~/images/dividers/6.png" width=100px /></center>
-    <br />
-    <br />
     <br />
 
   </div>
 
     <div id="text4" class="text">
+    <div class="rounded-border">
     <h3>Text 4</h3>
     <p><h4>@fiveCards[0].name</h4></p>
     <p><b>Summary:</b></p>
@@ -137,16 +143,16 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <p><b>Description:</b></p>
     <p>@Html.Raw(fiveCards[0].desc_up)</p>
     <a href="#top">back to top</a>
+    </div>
     <br />
     <center><img src="~/images/dividers/1.png" width=100px /></center>
-    <br />
-    <br />
     <br />
 
   </div>
 
 
     <div id="text5" class="text">
+    <div class="rounded-border">
     <h3>Text 5</h3>
     <p><h4>@fiveCards[0].name</h4></p>
     <p><b>Summary:</b></p>
@@ -154,15 +160,12 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <p><b>Description:</b></p>
     <p>@Html.Raw(fiveCards[0].desc_up)</p>
     <a href="#top">back to top</a>
+    </div>
     <br />
     <center><img src="~/images/dividers/2.png" width=100px /></center>
     <br />
-    <br />
-    <br />
 
   </div>
-
-</div>
 
 }
 

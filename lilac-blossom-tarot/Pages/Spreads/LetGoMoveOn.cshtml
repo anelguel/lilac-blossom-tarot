@@ -28,7 +28,8 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
         <img src="~/deck/@(fiveCards[0].value_int).png" alt="card image" width=200px />
       </div>
     </div>
-    <center><a href="#text1">text 1</a></center>
+    <br />
+    <center><a href="#text1" onclick="event.stopPropagation()">text 1</a></center>
   </div>
 
 
@@ -41,7 +42,8 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
        <img src="~/deck/@(fiveCards[1].value_int).png" alt="card image" width=200px />
       </div>
     </div>
-        <center><a href="#text2">text 2</a></center>
+    <br />
+        <center><a href="#text2" onclick="event.stopPropagation()">text 2</a></center>
   </div>
 
 
@@ -54,7 +56,8 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
         <img src="~/deck/@(fiveCards[2].value_int).png" alt="card image" width=200px />
       </div>
     </div>
-           <center><a href="#text3">text 3</a></center>
+    <br />
+           <center><a href="#text3" onclick="event.stopPropagation()">text 3</a></center>
   </div>
 
     <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text4').classList.toggle('show')">
@@ -66,7 +69,8 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
         <img src="~/deck/@(fiveCards[3].value_int).png" alt="card image" width=200px />
       </div>
     </div>
-           <center><a href="#text4">text 4</a></center>
+    <br />
+           <center><a href="#text4" onclick="event.stopPropagation()">text 4</a></center>
   </div>
 
     <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text5').classList.toggle('show')">
@@ -78,7 +82,8 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
         <img src="~/deck/@(fiveCards[4].value_int).png" alt="card image" width=200px />
       </div>
     </div>
-           <center><a href="#text5">text 5</a></center>
+    <br />
+           <center><a href="#text5" onclick="event.stopPropagation()">text 5</a></center>
   </div>
   </div>
 
@@ -137,11 +142,11 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <div id="text4" class="text">
     <div class="rounded-border">
     <h3>Text 4</h3>
-    <p><h4>@fiveCards[0].name</h4></p>
+    <p><h4>@fiveCards[3].name</h4></p>
     <p><b>Summary:</b></p>
-    <p>@fiveCards[0].meaning_up</p>
+    <p>@fiveCards[3].meaning_up</p>
     <p><b>Description:</b></p>
-    <p>@Html.Raw(fiveCards[0].desc_up)</p>
+    <p>@Html.Raw(fiveCards[3].desc_up)</p>
     <a href="#top">back to top</a>
     </div>
     <br />
@@ -154,11 +159,11 @@ var fiveCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLis
     <div id="text5" class="text">
     <div class="rounded-border">
     <h3>Text 5</h3>
-    <p><h4>@fiveCards[0].name</h4></p>
+    <p><h4>@fiveCards[4].name</h4></p>
     <p><b>Summary:</b></p>
-    <p>@fiveCards[0].meaning_up</p>
+    <p>@fiveCards[4].meaning_up</p>
     <p><b>Description:</b></p>
-    <p>@Html.Raw(fiveCards[0].desc_up)</p>
+    <p>@Html.Raw(fiveCards[4].desc_up)</p>
     <a href="#top">back to top</a>
     </div>
     <br />

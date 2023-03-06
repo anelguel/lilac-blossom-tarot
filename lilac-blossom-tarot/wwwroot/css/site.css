@@ -23,3 +23,13 @@ body {
     padding: 10px; /* Padding inside the border */
     background-color: #F9F8F3; /* Background color */
 }
+
+.btn-primary {
+    background-color: #B67DB4; /* Set the background color to red */
+    border-color: #B67DB4; /* Set the border color to red */
+}
+
+.btn-primary:hover {
+    background-color: #562664; /* Set the background color to red when hovering */
+    border-color: #562664; /* Set the border color to red when hovering */
+}

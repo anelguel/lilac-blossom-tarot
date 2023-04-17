@@ -17,6 +17,11 @@ while (randomListofCards.Count < 3)
 
 var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToList();
 
+
+<h2>Present, Present, Future</h2>
+
+<p>The Past, Present, Future spread helps give insight about an issue's previous, current, and upcoming energies. Think about an issue you'd like insight about and flip the cards below:</p>
+
   
 <div class="card-container" id="#top">
 
@@ -30,7 +35,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
       </div>
     </div>
     <br />
-    <center><a href="#text1" onclick="event.stopPropagation()">Past - deatils</a></center>
+    <center><a href="#text1" onclick="event.stopPropagation()">Past - details</a></center>
   </div>
 
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text2').classList.toggle('show')">
@@ -43,7 +48,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
       </div>
     </div>
     <br />
-    <center><a href="#text2" onclick="event.stopPropagation()">present - deatils</a></center>
+    <center><a href="#text2" onclick="event.stopPropagation()">Present - details</a></center>
   </div>
 
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text3').classList.toggle('show')">
@@ -56,7 +61,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
       </div>
     </div>
     <br />
-    <center><a href="#text3" onclick="event.stopPropagation()">future - deatils</a></center>
+    <center><a href="#text3" onclick="event.stopPropagation()">Future - details</a></center>
   </div>
 </div>
 

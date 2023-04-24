@@ -28,7 +28,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text1').classList.toggle('show')">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img src="~/images/blankcardfinalupdated.png" alt="Image" width=200px>
+        <img src="~/images/blankcard.png" alt="Image" width=200px>
       </div>
       <div class="flip-card-back">
         <img src="~/deck/@(threeCards[0].value_int).png" alt="card image" width=200px />
@@ -41,7 +41,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text2').classList.toggle('show')">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img src="~/images/blankcardfinalupdated.png" alt="Image" width=200px>
+        <img src="~/images/blankcard.png" alt="Image" width=200px>
       </div>
       <div class="flip-card-back">
         <img src="~/deck/@(threeCards[1].value_int).png" alt="card image" width=200px />
@@ -54,7 +54,7 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
   <div class="flip-card" onclick="this.classList.toggle('flipped'); document.getElementById('text3').classList.toggle('show')">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img src="~/images/blankcardfinalupdated.png" alt="Image" width=200px>
+        <img src="~/images/blankcard.png" alt="Image" width=200px>
       </div>
       <div class="flip-card-back">
         <img src="~/deck/@(threeCards[2].value_int).png" alt="card image" width=200px />

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - lilac_blossom_tarot</title>
+    <title>@ViewData["Title"] - Lilac Blossom Tarot</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/lilac_blossom_tarot.styles.css" asp-append-version="true" />
@@ -30,13 +30,13 @@
                                     Spreads
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                    <li><a class="dropdown-item" asp-page="Spreads/DailyPull">Daily Pull</a></li>
-                                    <li><a class="dropdown-item" asp-page="Spreads/PastPresentFuture">Past Present Future</a></li>
-                                    <li><a class="dropdown-item" asp-page="Spreads/LetGoMoveOn">Let Go, Move On</a></li>
+                                    <li><a class="dropdown-item" asp-page="/Spreads/DailyPull">Daily Pull</a></li>
+                                    <li><a class="dropdown-item" asp-page="/Spreads/PastPresentFuture">Past, Present, Future</a></li>
+                                    <li><a class="dropdown-item" asp-page="/Spreads/LetGoMoveOn">Let Go, Move On</a></li>
                                 </ul>
                             </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="./About/About">About</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/About/About">About</a>
                         </li>
 
                     </ul>
@@ -52,7 +52,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - lilac_blossom_tarot - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2023 - Lilac Blossom Tarot -  <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
 

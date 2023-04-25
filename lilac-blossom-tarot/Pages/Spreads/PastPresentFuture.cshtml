@@ -1,6 +1,8 @@
 ﻿@page
 @model lilac_blossom_tarot.Pages.Spreads.PastPresentFutureModel
 @{
+    ViewData["Title"] = "Past, Present, Future";
+
 
 Random random = new Random();
 
@@ -18,7 +20,7 @@ while (randomListofCards.Count < 3)
 var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToList();
 
 
-<h2>Present, Present, Future</h2>
+<h2>Present, Present, Future Spread</h2>
 
 <p>The Past, Present, Future spread helps give insight about an issue's previous, current, and upcoming energies. Think about an issue you'd like insight about and flip the cards below:</p>
 
@@ -116,7 +118,6 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
     <br />
   </div>
 
-
 }
 
 
@@ -185,3 +186,5 @@ var threeCards = randomListofCards.Select(i => @Model.DeckResults.cards[i]).ToLi
   .show {
     display: block;
   }
+
+ </style>

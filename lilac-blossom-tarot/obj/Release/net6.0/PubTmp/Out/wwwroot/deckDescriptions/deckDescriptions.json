@@ -1,0 +1,784 @@
+{
+  "cards": [
+    {
+      "type": "major",
+      "name_short": "ar00",
+      "name": "The Fool",
+      "value": "0",
+      "value_int": 0,
+      "meaning_up": "Beginnings, innocence, spontaneity, a free spirit",
+      "meaning_rev": "Holding back, recklessness, risk-taking",
+      "desc_up": "The Fool is a card of new beginnings, opportunity and potential. Just like the young man, you are at the outset of your journey, standing at the cliff's edge, and about to take your first step into the unknown. Even though you don't know exactly where you are going, you are being called to commit yourself and follow your heart, no matter how crazy this leap of faith might seem to you. Now is a time when you need to trust where the Universe is taking you.\u003cbr\u003e\u003cbr\u003eAs you undertake this new journey, The Fool encourages you to have an open, curious mind and a sense of excitement. Throw caution to the wind and be ready to embrace the unknown, leaving behind any fear, worry or anxiety about what may or may not happen. This is about new experiences, personal growth, development, and adventure.\u003cbr\u003e\u003cbr\u003eThe time is NOW! Take that leap of faith, even if you do not feel 100% ready or equipped for what is coming (who knows what it could be?!). Seriously, what are you waiting for? Do you think you need to have everything mapped out before you can begin? No way! Not with The Fool. He ventures out on his journey with just his essential belongings - and now he invites you to do the same. You don't need to wait for someone to give you the green light or hold off until you have all the skills, tools and resources you think you might need. You are ready! If you've been watching for a sign, this is it!"
+    },
+    {
+      "type": "major",
+      "name_short": "ar01",
+      "name": "The Magician",
+      "value": "1",
+      "value_int": 1,
+      "meaning_up": "Manifestation, resourcefulness, power, inspired action",
+      "meaning_rev": "Manipulation, poor planning, untapped talents",
+      "desc_up": "As a master manifestor, The Magician brings you the tools, resources and energy you need to make your dreams come true. Seriously, everything you need right now is at your fingertips. You have the spiritual (fire), physical (earth), mental (air) and emotional (water) resources to manifest your desires. And when you combine them with the energy of the spiritual and earthly realms, you will become a manifestation powerhouse! The key is to bring these tools together synergistically so that the impact of what you create is greater than the separate parts. This is alchemy at its best!\u003cbr\u003e\u003cbr\u003eNow is the perfect time to move forward on an idea that you recently conceived. The seed of potential has sprouted, and you are being called to take action and bring your intention to fruition. The skills, knowledge and capabilities you have gathered along your life path have led you to where you are now, and whether or not you know it, you are ready to turn your ideas into reality."
+    },
+    {
+      "type": "major",
+      "name_short": "ar02",
+      "name": "The High Priestess",
+      "value": "2",
+      "value_int": 2,
+      "meaning_up": "Intuition, sacred knowledge, divine feminine, the subconscious mind",
+      "meaning_rev": "Secrets, disconnected from intuition, withdrawal and silence",
+      "desc_up": "While The Magician is the guardian of the conscious mind and the tangible world, The High Priestess is the guardian of the subconscious mind and the teacher of sacred knowledge and hidden mysteries. Sitting at the threshold of the conscious and subconscious mind, The High Priestess has an innate ability to travel between these realms effortlessly. She teaches you that the world is not always as it seems and more profound influences are often at play. She ushers you through the thin veil of awareness, offering you a deep, intuitive understanding of the Universe and a heightened awareness of secret or hidden information.\u003cbr\u003e\u003cbr\u003e The High Priestess is a signal that you are being called to embrace the Divine Feminine - your connection to your intuition, compassion, empathy, and inner wisdom. Regardless of your gender, it is vital for you to balance and integrate your masculine and feminine energies, and the presence of The High Priestess signals that your sacred feminine needs your attention right now. Feel, rather than think. Collaborate, rather than compete. Create, rather than destroy. Be proud of your ability to nurture, trust, sense, and empathize instead of hiding it away."
+    },
+    {
+      "type": "major",
+      "name_short": "ar03",
+      "name": "The Empress",
+      "value": "3",
+      "value_int": 3,
+      "meaning_up": "Femininity, beauty, nature, nurturing, abundance",
+      "meaning_rev": "Creative block, dependence on others",
+      "desc_up": "The Empress signifies a strong connection with our femininity. Femininity translates in many ways - elegance, sensuality, fertility, creative expression, nurturing - and is necessary for creating balance in both men and women. The Empress calls on you to connect with your feminine energy. Create beauty in your life. Connect with your senses through taste, touch, sound, smell and sight. Draw on these senses to experience pleasure and deep fulfilment. Treat yourself to a day spa, learn massage, enjoy a fine restaurant or spend more time with your partner. Discover different approaches to expressing yourself creatively, be it through painting, music, drama or other art forms. This may be the perfect chance to take up a new hobby that enables you to access this part of yourself.\u003cbr\u003e\u003cbr\u003eThe Empress signifies abundance. You are surrounded by life's pleasures and luxuries and have everything you need to live a comfortable lifestyle. You are in a period of growth, in which all you have dreamed of is now coming to fruition. When The Empress appears in your Tarot readings, take a moment to reflect on the bounty that surrounds you and offer gratitude for all you have created so you can continue to build on this energy and create even more abundance in your life."
+    },
+    {
+      "type": "major",
+      "name_short": "ar04",
+      "name": "The Emperor",
+      "value": "4",
+      "value_int": 4,
+      "meaning_up": "Authority, establishment, structure, a father figure",
+      "meaning_rev": "Domination, excessive control, lack of discipline, inflexibility",
+      "desc_up": "As the father figure of the Tarot deck, The Emperor suggests that you are adopting this fatherly role (regardless of whether you are male or female), providing for your family, and protecting and defending your loved ones. You may be the breadwinner or the 'rock' for those who rely on your stability and security.\u003cbr\u003e\u003cbr\u003eSimilarly, The Emperor represents a powerful leader who demands respect and authority. Status, power, and recognition are essential to you, and you are most comfortable in a leadership role where you can command and direct others. As a leader, you rule with a firm but fair hand. You have a clear vision of what you want to create, and you organize those around you to manifest your goal. You listen to the advice of others, but you prefer to have the final say. Conflict doesn't scare you, and you won't hesitate to use your power to protect those you care about. And in return, those people will repay you with the loyalty and respect you deserve. Claim your authority as leader and influencer and don't let others put you down."
+    },
+    {
+      "type": "major",
+      "name_short": "ar05",
+      "name": "The Hierophant",
+      "value": "5",
+      "value_int": 5,
+      "meaning_up": "Spiritual wisdom, religious beliefs, conformity, tradition, institutions",
+      "meaning_rev": "Personal beliefs, freedom, challenging the status quo",
+      "desc_up": "The Hierophant card represents an established set of spiritual values and beliefs and is often correlated with religion and other formal doctrines. Before you can discover your own belief systems and make your own choices (as associated with the next card, The Lovers), The Hierophant encourages you to learn the fundamental principles from a trusted source.\u003cbr\u003e\u003cbr\u003eWork with a teacher, mentor, or guide to teach you about spiritual values and beliefs in a structured way. He may be an authority or a kind and generous mentor who nurtures your spiritual awareness and helps you access the Divine by understanding the traditions and core principles. You may also undertake a period of formal study as you delve into a subject that has been widely explored and documented.\u003cbr\u003e\u003cbr\u003eIf you have already mastered a particular field of study, you may be taking on the role of teacher and mentor to others. In this position, you honour and acknowledge your responsibility to share your knowledge in a structured way, one that respects the age-old traditions."
+    },
+    {
+      "type": "major",
+      "name_short": "ar06",
+      "name": "The Lovers",
+      "value": "6",
+      "value_int": 6,
+      "meaning_up": "Love, harmony, relationships, values alignment, choices",
+      "meaning_rev": "Self-love, disharmony, imbalance, misalignment of values",
+      "desc_up": "In its purest form, The Lovers card represents conscious connections and meaningful relationships. The arrival of this card in a Tarot reading shows that you have a beautiful, soul-honoring connection with a loved one. You may believe you have found your soul mate or life partner, and the sexual energy between you both goes way beyond instant gratification and lust to something that is very spiritual and almost Tantric. While The Lovers card typically refers to a romantic tie, it can also represent a close friendship or family relationship where love, respect and compassion flow.\u003cbr\u003e\u003cbr\u003eThe Lovers is a card of open communication and raw honesty. Given that the man and woman are naked, they are both willing to be in their most vulnerable states and have learned to open their hearts to one another and share their truest feelings. They shape the container from which trust and confidence can emerge, and this makes for a powerful bond between the two. In a reading, this card is a sign that by communicating openly and honestly with those you care about, you will create a harmonious and fulfilling relationship built on trust and respect."
+    },
+    {
+      "type": "major",
+      "name_short": "ar07",
+      "name": "The Chariot",
+      "value": "7",
+      "value_int": 7,
+      "meaning_up": "Control, willpower, success, action, determination",
+      "meaning_rev": "Self-discipline, opposition, lack of direction",
+      "desc_up": "The Chariot is a card of willpower, determination, and strength. You have discovered how to make decisions in alignment with your values with the Lovers card, and now you are taking action on those decisions. When The Chariot appears in a Tarot reading, take it as a sign of encouragement. You have set your objectives and are now channeling your inner power with a fierce dedication to bring them to fruition. When you apply discipline, commitment and willpower to achieve your goals, you will succeed.\u003cbr\u003e\u003cbr\u003eNow isn't the time to be passive in the hope that things will work out in your favor. Take focused action and stick to the course, no matter what challenges may come your way - because, believe me, there will be challenges. You may be pulled in opposite directions and find your strength and conviction tested. Others may try to block you, distract you, or drag down the pursuit of your goal. But The Chariot is an invitation to draw upon your willpower and home in on what's essential to you, so you can push past the obstacles in your way.\u003cbr\u003e\u003cbr\u003eIn a very literal sense, The Chariot can represent travel, especially driving or taking a road trip. You may even be considering selling your home and buying an RV so you can head off and roam the country!"
+    },
+    {
+      "type": "major",
+      "name_short": "ar08",
+      "name": "Strength",
+      "value": "8",
+      "value_int": 8,
+      "meaning_up": "Strength, courage, persuasion, influence, compassion",
+      "meaning_rev": "Inner strength, self-doubt, low energy, raw emotion",
+      "desc_up": "The Strength card represents strength, determination, and power - like The Chariot. However, while The Chariot signifies outer strength and will, the Strength card speaks to the inner strength and the human spirit's ability to overcome any obstacle. Strength is about knowing you can endure life's obstacles. You have great stamina and persistence, balanced with underlying patience and inner calm. You are committed to what you need to do, and you go about it in a way that shows your composure and maturity.\u003cbr\u003e\u003cbr\u003eWhen the Strength Tarot card appears in a reading, you are fueled by your inner strength, personal power, strong will and determination. You do not rule by trying to control others; you quietly influence and persuade. Others may underestimate your power because it is so 'invisible' - but you should see that as an advantage. You can control a situation without excessive, outward force. No one knows it's you calling the shots."
+    },
+    {
+      "type": "major",
+      "name_short": "ar09",
+      "name": "The Hermit",
+      "value": "9",
+      "value_int": 9,
+      "meaning_up": "Soul-searching, introspection, being alone, inner guidance",
+      "meaning_rev": "Isolation, loneliness, withdrawal",
+      "desc_up": "The Hermit shows that you are taking a break from everyday life to draw your energy and attention inward and find the answers you seek, deep within your soul. You realize that your most profound sense of truth and knowledge is within yourself and not in the distractions of the outside world. You leave behind the mundane to set off on a journey of self-discovery, led only by your inner wisdom and guiding light. Now is the perfect time to go on a weekend retreat or sacred pilgrimage, anything in which you can contemplate your motivations, personal values and principles, and get closer to your authentic self.\u003cbr\u003e\u003cbr\u003eThe Hermit invites you to retreat into your private world and experience a deep sense of seclusion and introspection. You know that you need to take this journey alone or with a small, intimate group of spiritually minded people. When you allow yourself to tune in to your inner, guiding light, you will hear the answers you need and grow wise beyond your years. Find your light, shine it on your soul and create your unique path. You will see what lies ahead of you - not miles upon miles, but enough to know where to step next. From there, take one step at a time."
+    },
+    {
+      "type": "major",
+      "name_short": "ar10",
+      "name": "Wheel Of Fortune",
+      "value": "10",
+      "value_int": 10,
+      "meaning_up": "Good luck, karma, life cycles, destiny, a turning point",
+      "meaning_rev": "Bad luck, resistance to change, breaking cycles",
+      "desc_up": "The Wheel of Fortune reminds you that the wheel is always turning and life is in a state of constant change. If you're going through a difficult time rest assured that it will get better from here. Good luck and good fortune will make their return in time. Similarly, if things are going well, know this, too, will change and life may return to 'normal' soon. This cycle shows why it is so important to cherish the blissful moments in your life and make the most of them while they are within reach - because in a flash they could be gone.\u003cbr\u003e\u003cbr\u003eThe Wheel of Fortune is also known as the wheel of karma and reminds you that 'what goes around comes around.' Be a kind and loving person to others, and they'll be kind and loving to you. Be nasty and mean, and you will get nasty and mean turning back your way. So, if you want happiness and abundance, make sure you're sending out that positive juju in kind. What you send out into the Universe will come back your way."
+    },
+    {
+      "type": "major",
+      "name_short": "ar11",
+      "name": "Justice",
+      "value": "11",
+      "value_int": 11,
+      "meaning_up": "Justice, fairness, truth, cause and effect, law",
+      "meaning_rev": "Unfairness, lack of accountability, dishonesty",
+      "desc_up": "The Justice card represents justice, fairness, truth and the law. You are being called to account for your actions and will be judged accordingly. If you have acted in alignment with your Higher Self and for the greater good of others, you have nothing to worry about. However, if you haven't, you will be called out and made to own up to your actions. If this has you shaking in your boots, know that the Justice card isn't as black and white as you may think. A level of compassion and understanding accompany Justice, and although you may have done something you regret, this card suggests that you will be treated fairly and without bias. Be ready to take responsibility for your actions and stand accountable for the ensuing consequences."
+    },
+    {
+      "type": "major",
+      "name_short": "ar12",
+      "name": "The Hanged Man",
+      "value": "12",
+      "value_int": 12,
+      "meaning_up": "Pause, surrender, letting go, new perspectives",
+      "meaning_rev": "Delays, resistance, stalling, indecision",
+      "desc_up": "The Hanged Man reminds you that sometimes you have to put everything on hold before you can take the next step, or the Universe will do it on your behalf (and it may not always be at the most convenient time!). You may have heard the saying, 'What got you here won't get you there', and that indeed is at play in this card. The Hanged Man calls you to release the old mental models and behavioural patterns that no longer serve you so you can see your world from a new perspective and embrace new opportunities that would have otherwise been hidden from you if you didn't hit the brakes."
+    },
+    {
+      "type": "major",
+      "name_short": "ar13",
+      "name": "Death",
+      "value": "13",
+      "value_int": 13,
+      "meaning_up": "Endings, change, transformation, transition",
+      "meaning_rev": "Resistance to change, personal transformation, inner purging",
+      "desc_up": "The Death card is probably the most feared and misunderstood of all the cards in the Tarot deck. Just mention the card's name and most people freak out, worried they will suddenly keel over and die as soon as this card appears. Relax! The Death card can be one of the most positive cards in the deck.\u003cbr\u003e\u003cbr\u003eAfter a period of pause and reflection with The Hanged Man, the Death card symbolizes the end of a major phase or aspect of your life that you realize is no longer serving you, opening up the possibility of something far more valuable and essential. You must close one door to open another. You need to put the past behind you and part ways, ready to embrace new opportunities and possibilities. It may be difficult to let go of the past, but you will soon see its importance and the promise of renewal and transformation. If you resist these necessary endings, you may experience pain, both emotionally and physically, but if you exercise your imagination and visualize a new possibility, you allow more constructive patterns to emerge."
+    },
+    {
+      "type": "major",
+      "name_short": "ar14",
+      "name": "Temperance",
+      "value": "14",
+      "value_int": 14,
+      "meaning_up": "Balance, moderation, patience, purpose",
+      "meaning_rev": "Imbalance, excess, self-healing, re-alignment",
+      "desc_up": "Temperance is the card for bringing balance, patience and moderation into your life. You are being invited to stabilise your energy and to allow the life force to flow through you without force or resistance. It's time to recover your flow and get your life back into order and balance.\u003cbr\u003e\u003cbr\u003eThis card calls on you to remain calm, even when life feels stressful or frantic. Maintain an even temperament and manage your emotions. You have learned to keep composed in stressful situations. Little things don't get to you, thanks to your seemingly abundant source of patience. Your respect for balance and tranquillity is what will help you achieve and experience fulfilment in your life.\u003cbr\u003e\u003cbr\u003eTemperance asks you to take the middle path and accommodate all perspectives. Now is not the time to be highly opinionated or controversial. Be the peacekeeper and take a balanced and moderate approach, avoiding any extremes. Include others and bring together diverse groups of people to create harmony and cooperation. By working together, you will collectively leverage the right mix of talents, experiences, abilities and skills."
+    },
+    {
+      "type": "major",
+      "name_short": "ar15",
+      "name": "The Devil",
+      "value": "15",
+      "value_int": 15,
+      "meaning_up": "Shadow self, attachment, addiction, restriction, sexuality",
+      "meaning_rev": "Releasing limiting beliefs, exploring dark thoughts, detachment",
+      "desc_up": "The Devil card represents your shadow (or darker) side and the negative forces that constrain you and hold you back from being the best version of yourself. You may be at the effect of negative habits, dependencies, behaviors, thought patterns, relationships, and addictions. You have found yourself trapped between the short-term pleasure you receive and the longer-term pain you experience. Just as the Lovers card speaks to duality and choice, so too does The Devil; however, with The Devil, you are choosing the path of instant gratification, even if it is at the expense of your long-term well-being. When The Devil shows up in a Tarot reading, see it as an opportunity to bring these negative influences into your conscious awareness, so you can then take action to free yourself from their hold. Shine your light on the negative patterns that have been standing in your way for so long, and over time, you will loosen the grip they have on you. "
+    },
+    {
+      "type": "major",
+      "name_short": "ar16",
+      "name": "The Tower",
+      "value": "16",
+      "value_int": 16,
+      "meaning_up": "Sudden change, upheaval, chaos, revelation, awakening",
+      "meaning_rev": "Personal transformation, fear of change, averting disaster",
+      "desc_up": "When The Tower card appears in a Tarot reading, expect the unexpected - massive change, upheaval, destruction and chaos. It may be a divorce, death of a loved one, financial failure, health problems, natural disaster, job loss or any event that shakes you to your core, affecting you spiritually, mentally and physically. There's no escaping it. Change is here to tear things up, create chaos and destroy everything in its path (but trust me, it's for your Highest Good).\u003cbr\u003e\u003cbr\u003eThe best way forward is to let this structure self-destruct so you can re-build and re-focus. And let's be real - with a card like The Tower, you have no choice but to surrender to the destruction and chaos, no matter how unwanted or painful. Change on this deep level is hard, but you need to trust that life is happening FOR you, not TO you and this is all for a reason. This destruction will allow new growth to emerge and your soul can evolve."
+    },
+    {
+      "type": "major",
+      "name_short": "ar17",
+      "name": "The Star",
+      "value": "17",
+      "value_int": 17,
+      "meaning_up": "Hope, faith, purpose, renewal, spirituality",
+      "meaning_rev": "Lack of faith, despair, self-trust, disconnection",
+      "desc_up": "As The Star follows The Tower card in Tarot, it comes as a welcome reprieve after a period of destruction and turmoil. You have endured many challenges and stripped yourself bare of any limiting beliefs that have previously held you back. You are realizing your core essence, who you are beneath all the layers. No matter what life throws your way, you know that you are always connected to the Divine and pure loving energy. You hold a new sense of self, a new appreciation for the core of your Being.\u003cbr\u003e\u003cbr\u003eThe Star brings renewed hope and faith, and a sense that you are truly blessed by the Universe. You are entering a peaceful, loving phase in your life, filled with calm energy, mental stability and more in-depth understanding of both yourself and others around you. This is a time of significant personal growth and development as you are now ready to receive the many blessings of the Universe."
+    },
+    {
+      "type": "major",
+      "name_short": "ar18",
+      "name": "The Moon",
+      "value": "18",
+      "value_int": 18,
+      "meaning_up": "Illusion, fear, anxiety, subconscious, intuition",
+      "meaning_rev": "Release of fear, repressed emotion, inner confusion",
+      "desc_up": "The Moon can indicate a time of uncertainty and illusion, when nothing is what it seems. Be careful of making fast decisions when The Moon appears because you may later realize you only had half the information you needed. You need to listen to and trust your intuition so you can see beyond what is in front of you. Feel into situations rather than thinking what they mean. Let go of your conscious mental blocks or negative self-talk and allow your intuition to guide you."
+    },
+    {
+      "type": "major",
+      "name_short": "ar19",
+      "name": "The Sun",
+      "value": "19",
+      "value_int": 19,
+      "meaning_up": "Positivity, fun, warmth, success, vitality",
+      "meaning_rev": "Inner child, feeling down, overly optimistic",
+      "desc_up": "The Sun represents success, radiance and abundance. The Sun gives you strength and tells you that no matter where you go or what you do, your positive and radiant energy will follow you and bring you happiness and joy. People are drawn to you because you can always see the bright side and bring such warmth into other people's lives. This beautiful, warm energy is what will get you through the tough times and help you succeed. You are also in a position where you can share your highest qualities and achievements with others. Radiate who you are and what you stand for; shine your love on those you care about."
+    },
+    {
+      "type": "major",
+      "name_short": "ar20",
+      "name": "The Last Judgment",
+      "value": "20",
+      "value_int": 20,
+      "meaning_up": "Judgement, rebirth, inner calling, absolution",
+      "meaning_rev": "Self-doubt, inner critic, ignoring the call",
+      "desc_up": "The Judgement card is calling you to rise up and embrace a higher level of consciousness for the service of your Highest Good. You are experiencing a spiritual awakening and realising that you are destined for so much more. This is your cosmic up-levelling! You hear the call and are ready to act. Tune in to a higher frequency. Let go of your old self and step into this newest version of who you really are."
+    },
+    {
+      "type": "major",
+      "name_short": "ar21",
+      "name": "The World",
+      "value": "21",
+      "value_int": 21,
+      "meaning_up": "Completion, integration, accomplishment, travel",
+      "meaning_rev": "Seeking personal closure, short-cuts, delays",
+      "desc_up": "When The World card appears in a Tarot reading, you are glowing with a sense of wholeness, achievement, fulfilment, and completion. A long-term project, period of study, relationship or career has come full circle, and you are now reveling in the sense of closure and accomplishment. This card could represent graduation, a marriage, the birth of a child, or achieving a long-held dream or aspiration. You have finally accomplished your goal or purpose. Everything has come together, and you are in the right place, doing the right thing, achieving what you have envisioned. You feel whole and complete."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups01",
+      "name": "Ace of Cups",
+      "value": "22",
+      "value_int": 22,
+      "meaning_up": "Love, new relationships, compassion, creativity",
+      "meaning_rev": "Self-love, intuition, repressed emotions",
+      "desc_up": "With the Ace of Cups, Divine love and compassion are pouring through you. You are a vessel for deep, spiritual love from the Universe, and you can't help but let that love flow through you and into the world. You receive love, you give love, you ARE love. Your heart overflows.\u003cbr\u003e\u003cbr\u003eNow is the perfect time for you to open your heart and experience the rich flow of emotion available to you right now. You are more receptive to creative opportunities, loving connections, and deep compassion for other living beings. As with all Aces in the Tarot, this card comes as an invitation. Will you take it? Will you say 'Yes!' to Divine love and compassion, and will you run with it? The Ace of Cups carries the potential for spiritual and emotional fulfilment - but only if you embrace it with an open heart."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups02",
+      "name": "Two of Cups",
+      "value": "23",
+      "value_int": 23,
+      "meaning_up": "Unified love, partnership, mutual attraction",
+      "meaning_rev": "Self-love, break-ups, disharmony, distrust",
+      "desc_up": "If the Ace of Cups represents the flow of love from within, the Two of Cups is the flow of love between two people. With this card, you are creating deep connections and partnerships, based on shared values, compassion, and unconditional love. While these relationships are still in the early stages, they have the potential to grow and develop into something deeply fulfilling and rewarding in the long-term. You have mutual respect and appreciation for one another, and together you reach higher planes of consciousness and understanding.\u003cbr\u003e\u003cbr\u003eWhen the Two of Cups card appears in a Tarot reading, you may enter a new partnership, perhaps with a lover, friend or business partner. You are both focused on creating a relationship that is mutually beneficial, one that will create a win-win situation for both parties. You see 'eye to eye' and appreciate what each other can bring to the table."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups03",
+      "name": "Three of Cups",
+      "value": "24",
+      "value_int": 24,
+      "meaning_up": "Celebration, friendship, creativity, collaborations",
+      "meaning_rev": "Independence, alone time, hardcore partying, 'three's a crowd'",
+      "desc_up": "The Three of Cups is a card of celebration, friendship, sisterhood, and creative collaborations. Your friends and family are here to support you and lift you up to even higher levels of success. Celebrate with them and enjoy their camaraderie.When the Three of Cups appears in a Tarot reading, you are encouraged to gather with your closest friends and have a good time together, talking, laughing, sharing and creating. Together, you give and receive the love, support and compassion each of you needs from one another."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups04",
+      "name": "Four of Cups",
+      "value": "25",
+      "value_int": 25,
+      "meaning_up": "Meditation, contemplation, apathy, reevaluation",
+      "meaning_rev": "Retreat, withdrawal, checking in for alignment",
+      "desc_up": "When the Four of Cups turns up in a Tarot reading, new invitations and opportunities are flowing to you, but for now, you're saying 'no' and turning them away. Perhaps the prospects do not interest you, or your cup is full, or you already have too much on your plate. Use your discernment to decide on what is truly important to you, and don't be afraid to decline new projects that don't align with your future path."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups05",
+      "name": "Five of Cups",
+      "value": "26",
+      "value_int": 26,
+      "meaning_up": "Regret, failure, disappointment, pessimism",
+      "meaning_rev": "Personal setbacks, self-forgiveness, moving on",
+      "desc_up": "The Five of Cups often appears in a Tarot reading when a situation hasn't turned out the way you expected, and you are sad, regretful, and disappointed. Instead of moving on with your life, you are choosing to wallow in your self-pity. All you can focus on right now is what went wrong and how you failed. Sure, feel the feels, but set yourself a time limit for your self-pity and then pull yourself together and move on."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups06",
+      "name": "Six of Cups",
+      "value": "27",
+      "value_int": 27,
+      "meaning_up": "Revisiting the past, childhood memories, innocence, joy",
+      "meaning_rev": "Living in the past, forgiveness, lacking playfulness",
+      "desc_up": "The Six of Cups invites you to get in touch with your inner child and experience the fun, freedom and innocence that comes with being a young child again. You might like to sit down with an adult colouring book, dance like no-one is watching you, play your favourite childhood games or spend more time around (happy) children. When you give yourself permission to be playful, spontaneous, and creative, you connect more with your authentic self and your intuition."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups07",
+      "name": "Seven of Cups",
+      "value": "28",
+      "value_int": 28,
+      "meaning_up": "Opportunities, choices, wishful thinking, illusion",
+      "meaning_rev": "Alignment, personal values, overwhelmed by choices",
+      "desc_up": "The Seven of Cups is a card of new opportunities, choices, and at times, illusion. When the Seven of Cups appears in a Tarot reading, you have many options and opportunities from which you can choose. But be careful! You are prone to illusion and unrealistic ideals. An opportunity with promises of more money, more fame, or more power may sound appealing, but as you look deeper into what is on offer, you may realise it's not everything it's cracked up to be. Your ego may pull you in a specific direction, but it's important you check in with your Higher Self first. Evaluate your options and dig below the surface to discover what's involved with each choice."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups08",
+      "name": "Eight of Cups",
+      "value": "29",
+      "value_int": 29,
+      "meaning_up": "Disappointment, abandonment, withdrawal, escapism",
+      "meaning_rev": "Trying one more time, indecision, aimless drifting, walking away",
+      "desc_up": "When the Eight of Cups shows up in a Tarot reading, you may feel compelled to walk away from a disappointing situation. It could mean turning your back on an unfulfilling relationship, job, career path, living arrangement or creative project that was once a source of great happiness to you but now only brings you pain. You have invested yourself emotionally but, despite your best efforts, are disappointed; it hasn't turned out the way you had expected it to, and you realise that you are no longer getting anything out of this situation. Now, the only choice is to put it behind you and move on with your life, even if it brings you sadness as you say goodbye."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups09",
+      "name": "Nine of Cups",
+      "value": "30",
+      "value_int": 30,
+      "meaning_up": "Contentment, satisfaction, gratitude, wish come true",
+      "meaning_rev": "Inner happiness, materialism, dissatisfaction, indulgence",
+      "desc_up": "You know those moments when you glance around and feel your heart overflowing with love and appreciation for everything you have created in your life? That's what the Nine of Cups is about: emotional fulfilment, happiness and contentment. When this card appears in a Tarot reading, you are content in all aspects of your life - relationships, work, lifestyle, well-being and more. You are basking in the abundance of life and experiencing your emotions with such intensity and pleasure.\u003cbr\u003e\u003cbr\u003eThis is why the Nine of Cups is often called the wish card. It comes as a sign that the planets aligned and you have everything you wished for. You could not be happier! If you made your wish and are patiently waiting for it to come to fruition, then this card is an excellent omen that it will soon be granted."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups10",
+      "name": "Ten of Cups",
+      "value": "31",
+      "value_int": 31,
+      "meaning_up": "Divine love, blissful relationships, harmony, alignment",
+      "meaning_rev": "Disconnection, misaligned values, struggling relationships",
+      "desc_up": "The Ten of Cups embodies happiness, joy, and emotional contentment, particularly in your relationships and family. You have created an abundance of love and happiness in your life, and you now share this love with others, expanding your heart even more. This card often appears when you are surrounded by your loved ones with whom you share a powerful and deep connection. You appreciate and support one another, and together, you help each other reach your highest potential. It brings you so much joy to see your loved ones succeed and live happy lives."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups11",
+      "name": "Page of Cups",
+      "value": "32",
+      "value_int": 32,
+      "meaning_up": "Creative opportunities, intuitive messages, curiosity, possibility",
+      "meaning_rev": "New ideas, doubting intuition, creative blocks, emotional immaturity",
+      "desc_up": "The Page of Cups suggests a new idea or opportunity has come to you out of the blue. Your creative energy is flowing, and now the question is how you will express it. Will you snap up this new idea and turn it into something, or will you let someone else bring it to fruition? It is up to you! Spend time exploring the idea to see if you want to move forward.\u003cbr\u003e\u003cbr\u003eThe Page of Cups invites you to have an open and curious mind. Be open to anything - including a fish popping its head out of a cup! It is with a curious mind that you will discover new aspects of life and yourself. Open your mind to all possibilities, especially those of a creative or intuitive nature, you will be pleasantly surprised. Be ready to dream the impossible dream, and explore the magic of your fullest potential, even if it seems out of reach. The Page of Cups is asking you to embrace your inner child and believe that anything is possible."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups12",
+      "name": "Knight of Cups",
+      "value": "33",
+      "value_int": 33,
+      "meaning_up": "Creativity, romance, charm, imagination, beauty",
+      "meaning_rev": "Overactive imagination, unrealistic, jealous, moody",
+      "desc_up": "All Knights are on a mission, and this Knight's is humanitarianism, romance, altruism, compassion, and beauty. You have a vision of harmony and are ready to bring it into reality. You are lead by your heart and want to see peace for everyone involved.\u003cbr\u003e\u003cbr\u003eWhen it comes to making decisions, the Knight of Cups is ruled by his emotions and his heart. When this card arrives in a Tarot reading, you are making decisions based on how you feel about a situation rather than what you think, even if others can't make sense of what you are doing and why, and your intuition guides you in everything you do."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups13",
+      "name": "Queen of Cups",
+      "value": "34",
+      "value_int": 34,
+      "meaning_up": "Compassionate, caring, emotionally stable, intuitive, in flow",
+      "meaning_rev": "Inner feelings, self-care, self-love, co-dependency",
+      "desc_up": "The Queen of Cups is nurturing, caring, compassionate and sensitive. When you see her in a Tarot reading, you are embodying her 'nurturing mother' energy. You support others by listening with your heart, being compassionate, and caring for them deeply. You are empathic and can sense the needs of others by tuning in to your intuition, and you hold the space for others to express their emotions and be the truest, most authentic versions of themselves. You have mastered this in such a way that, even though you hold space for emotional expression, you don't take on other people's energy or emotional issues because you are well-grounded and know where to create a healthy separation."
+    },
+    {
+      "type": "minor",
+      "name_short": "cups14",
+      "name": "King of Cups",
+      "value": "35",
+      "value_int": 35,
+      "meaning_up": "Emotionally balanced, compassionate, diplomatic",
+      "meaning_rev": "Self-compassion, inner feelings, moodiness, emotionally manipulative",
+      "desc_up": "The King of Cups represents mastery over the realms of emotion, creativity and the unconscious. When this card turns up in a Tarot reading, you have gained control of your feelings and can accept them without allowing them to get the better of you. Even when life throws you a curve ball, you can draw on your emotional maturity and stability to help you navigate these challenges. You don't let things get to you, and you steer clear of the drama, instead choosing an emotionally balanced and calm approach."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords01",
+      "name": "Ace of Swords",
+      "value": "36",
+      "value_int": 36,
+      "meaning_up": "Breakthroughs, new ideas, mental clarity, success",
+      "meaning_rev": "Inner clarity, re-thinking an idea, clouded judgement",
+      "desc_up": "The Ace of Swords marks a wave of new energy from the intellectual realms. You may be on the verge of a significant breakthrough or a new way of thinking that allows you to view the world with clear eyes. Or, you may have a sudden realisation or conscious understanding about an issue that has been troubling you and can finally see the path ahead of you. Meditate regularly to clear away the mental chatter and make the most of this intellectual potential."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords02",
+      "name": "Two of Swords",
+      "value": "37",
+      "value_int": 37,
+      "meaning_up": "Difficult decisions, weighing up options, an impasse, avoidance",
+      "meaning_rev": "Indecision, confusion, information overload, stalemate",
+      "desc_up": "The Two of Swords indicates that you are facing a challenging decision, but you are unclear about which option to take. Both possibilities may seem equally good - or equally bad - and you are stumped about which will lead you to the best outcome. You must be able to weigh up the pros and cons of each choice and then make a conscious judgment. Use both your head (your mind and the intellect) and your heart (your feelings and intuition) to choose the path that is most in alignment with your Higher Self."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords03",
+      "name": "Three of Swords",
+      "value": "38",
+      "value_int": 38,
+      "meaning_up": "Heartbreak, emotional pain, sorrow, grief, hurt",
+      "meaning_rev": "Negative self-talk, releasing pain, optimism, forgiveness",
+      "desc_up": "When the Three of Swords turns up in a Tarot reading, it signals that you are feeling deeply hurt and disappointed. Your heart has been pierced by the sharp blades of others' hurtful words, actions and intentions, and they have inflicted intense emotions of pain, sadness, grief, and heartbreak. These events are often unexpected and come out of the blue, making them even more painful.\u003cbr\u003e\u003cbr\u003eThe Three of Swords is also about an emotional release. When you have suffered a major setback or loss, now is an excellent time to have a good cry. Expressing your sadness is part of the cleansing process and letting it all out will help you move on to better times. Allow yourself the opportunity to experience these emotions, no matter how painful. Cry, shout, or scream at the top of your lungs. Do whatever it takes to express your anger or pain as this will help the emotions flow through (and out of) you."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords04",
+      "name": "Four of Swords",
+      "value": "39",
+      "value_int": 39,
+      "meaning_up": "Rest, relaxation, meditation, contemplation, recuperation",
+      "meaning_rev": "Exhaustion, burn-out, deep contemplation, stagnation",
+      "desc_up": "The Four of Swords tells you to rest before you take on the next challenge. You have reached an important first milestone and must recharge your energy before the next phase begins so you are refreshed and ready to go. Even if you are highly productive and driven, take time out from your busy schedule to restore your energy and heal the body and the mind. Constant stress and tension will break even the hardest and most resilient of people but brief periods of rest enable you to refresh your energy, concentration and focus so that you are ready for the next challenge."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords05",
+      "name": "Five of Swords",
+      "value": "40",
+      "value_int": 40,
+      "meaning_up": "Conflict, disagreements, competition, defeat, winning at all costs",
+      "meaning_rev": "Reconciliation, making amends, past resentment",
+      "desc_up": "The Five of Swords turns up when you have had a falling out, disagreement or conflict, and you are walking away with a sense of sadness and loss. You may be upset and resentful over the heated words you said and now wish you could take back. 'Bad blood' and a general 'icky-ness' hang over you as your relations have turned sour.\u003cbr\u003e\u003cbr\u003eThe advice of the Five of Swords is to pick your battles. You may be tempted to fight every conflict to ensure you get your way, to prove that you are right, or defend yourself when you are feeling challenged or threatened. However, most experts agree, choosing your battles wisely is a much better way of life than engaging in every disagreement. Not only will it lead to a more peaceful existence, but your interpersonal relationships are likely to come out stronger."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords06",
+      "name": "Six of Swords",
+      "value": "41",
+      "value_int": 41,
+      "meaning_up": "Transition, change, rite of passage, releasing baggage",
+      "meaning_rev": "Personal transition, resistance to change, unfinished business",
+      "desc_up": "The Six of Swords shows that you are in a state of transition, leaving behind what was familiar and moving towards the unknown. You might be moving house, leaving a relationship, changing jobs, going through a rite of passage or a mental shift. This change may be your own doing or forced upon you, and you may feel sad to leave behind what is so familiar to you. However, you know this move is essential for your growth and personal development. The sadness over what you have lost (or released) will soon be replaced by greater mental clarity and a renewed acceptance of change. You will become a better person as a result."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords07",
+      "name": "Seven of Swords",
+      "value": "42",
+      "value_int": 42,
+      "meaning_up": "Betrayal, deception, getting away with something, acting strategically",
+      "meaning_rev": "Imposter syndrome, self-deceit, keeping secrets",
+      "desc_up": "The Seven of Swords points out that you need to be strategic in what you do. You know you cannot do everything at once - nor should you. Instead, you must prioritise what's important to you and direct your focus and attention on the few tasks that will move you closer to your goals. It's the 80-20 rule: 20% of your work will account for 80% of your results, so focus on the 20%. You may be able to accept some responsibilities or duties, but not all of them. Or you may say 'yes' to some projects at the expense of others."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords08",
+      "name": "Eight of Swords",
+      "value": "43",
+      "value_int": 43,
+      "meaning_up": "Negative thoughts, self-imposed restriction, imprisonment, victim mentality",
+      "meaning_rev": "Self-limiting beliefs, inner critic, releasing negative thoughts, open to new perspectives",
+      "desc_up": "The Eight of Swords reveals that you feel trapped and restricted by your circumstances. You believe your options are limited with no clear path out. You might be in an unfulfilling job, an abusive relationship, a significant amount of debt or a situation way out of alignment with your inner being. You are now trapped between a rock and a hard place, with no resolution available. However, take note that the woman in the card is not entirely imprisoned by the eight swords around her, and if she wanted to escape, she could. She merely needs to remove the blindfold and free herself from the self-imposed bindings that hold her back."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords09",
+      "name": "Nine of Swords",
+      "value": "44",
+      "value_int": 44,
+      "meaning_up": "Anxiety, worry, fear, depression, nightmares",
+      "meaning_rev": "Inner turmoil, deep-seated fears, secrets, releasing worry",
+      "desc_up": "The Nine of Swords often crops up when worry, despair, and anxiety are quite literally keeping you up at night. You may not be sleeping well, or you are experiencing frequent nightmares. Your constant thoughts are preventing you from resting.\u003cbr\u003e\u003cbr\u003eWhen the Nine of Swords appears in a reading, it is time to reach out for help. You don't need to do this alone - enlist the support of others to help you get through this dark period of your life. Others will help you to see the light at the end of the tunnel and lead you towards a solution or a sense of peace despite your troubles. You are struggling to look at your situation clearly, as you are plagued by negative thoughts, so having an objective, third-party perspective will help you find your way out."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords10",
+      "name": "Ten of Swords",
+      "value": "45",
+      "value_int": 45,
+      "meaning_up": "Painful endings, deep wounds, betrayal, loss, crisis",
+      "meaning_rev": "Recovery, regeneration, resisting an inevitable end",
+      "desc_up": "The Ten of Swords marks a painful yet inevitable ending. For example, a relationship may come to an abrupt end, your job may be cut, or a contract is broken. It is as if this ending has come out of the blue and rocked your world. You could have never expected it, but now it has happened, cutting to the core and leaving you feeling as if the world has crumbled in around you. You are grieving the pain of this shocking loss and wonder if you will ever love or find work or trust again.\u003cbr\u003e\u003cbr\u003ePick yourself up off the ground and reflect upon what happened to you and why, and what you can learn from the experience. When you do this, the hurt and pain will fade, and you will soon see why all of this needed to happen so that you can evolve into your fullest potential. The pain and hurt you have endured have not gone without purpose. Use the positive power within you to learn from your pain and draw wisdom from defeat."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords11",
+      "name": "Page of Swords",
+      "value": "46",
+      "value_int": 46,
+      "meaning_up": "New ideas, curiosity, thirst for knowledge, new ways of communicating",
+      "meaning_rev": "Self-expression, all talk and no action, haphazard action, haste",
+      "desc_up": "The Page of Swords is full of energy, passion and enthusiasm. When this card shows up in a Tarot reading, you are bursting with new ideas and plans for the future. You may be excited about starting a new project, pursuing a new approach or learning something new. You have so much energy that you feel as though you could do almost anything - and you can! The challenge, however, is whether you can keep it up. As with all Pages, the beginning always looks promising, but you need something else to follow through and keep up the pace."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords12",
+      "name": "Knight of Swords",
+      "value": "47",
+      "value_int": 47,
+      "meaning_up": "Ambitious, action-oriented, driven to succeed, fast-thinking",
+      "meaning_rev": "Restless, unfocused, impulsive, burn-out",
+      "desc_up": "As with all Knights of the Tarot deck, the Knight of Swords is a man (or woman) on a mission - once he has his mind set on something, nothing is stopping him. And as a Swords card, this Knight actively uses the power of his intellect to achieve his goals.\u003cbr\u003e\u003cbr\u003eWhen the Knight of Swords appears in a Tarot reading, it is a sign that you are highly driven, ambitious and action-oriented. You are so highly motivated to succeed that you will stop at nothing to pursue your dreams. The challenges, difficulties and obstacles on the path ahead don't faze you because you know where you want to go. Move forward with sheer strength and determination to make things happen."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords13",
+      "name": "Queen of Swords",
+      "value": "48",
+      "value_int": 48,
+      "meaning_up": "Independent, unbiased judgement, clear boundaries, direct communication",
+      "meaning_rev": "Overly-emotional, easily influenced, bitchy, cold-hearted",
+      "desc_up": "The Queen of Swords notes that you are a truth-seeker. You are open to hearing the thoughts and opinions of others, but ultimately, you filter that information to decipher what is true and what is not. When interacting with others, you will not tolerate mistruths or excessive 'fluff'. You prefer to get to the heart of the matter without engaging in too much chit-chat or gossip.\u003cbr\u003e\u003cbr\u003eThe Queen of Swords suggests that you have an innate ability to tell it like it is. You are a quick thinker and highly perceptive, piercing through the noise and confusion to get straight to the point. There is no 'beating about the bush,' or 'softening' of your comments, opinions and thoughts. You are upfront and honest in your views, and you expect the same from others. For this reason, many people respect your opinion and come to you for advice when they need clarity."
+    },
+    {
+      "type": "minor",
+      "name_short": "swords14",
+      "name": "King of Swords",
+      "value": "49",
+      "value_int": 49,
+      "meaning_up": "Mental clarity, intellectual power, authority, truth",
+      "meaning_rev": "Quiet power, inner truth, misuse of power, manipulation",
+      "desc_up": "The King of Swords is a symbol of intellectual power and authority and has the courage and intellect to achieve all that he desires. When this card appears in a Tarot reading, you are in your power, ruling from a place of authority and respect. You stand firm in your truth and express yourself with deep conviction. As a result, others pay attention to what you have to say."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles01",
+      "name": "Ace of Pentacles",
+      "value": "50",
+      "value_int": 50,
+      "meaning_up": "A new financial or career opportunity, manifestation, abundance",
+      "meaning_rev": "Lost opportunity, lack of planning and foresight",
+      "desc_up": "The Ace of Pentacles, like the other Aces of the Tarot, represents new beginnings, opportunities, and potential - and as a Pentacles card, these new beginnings correlate to the material world: finances, wealth, career, physical health and manifestation of your goals. You may receive a new job offer, an unexpected sum of money, a new business or investment opportunity may come your way, or you'll have the chance to bring an idea to fruition. No matter the occasion, the Ace of Pentacles heralds a sense of prosperity and abundance in the material or financial areas of your life. It undoubtedly comes as a welcome invitation - but it is not a free ride. As with all Aces in the Tarot deck, this card illustrates the possibility of a new endeavour but does not guarantee its manifestation or success. That piece is up to you."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles02",
+      "name": "Two of Pentacles",
+      "value": "51",
+      "value_int": 51,
+      "meaning_up": "Multiple priorities, time management, prioritisation, adaptability",
+      "meaning_rev": "Over-committed, disorganisation, reprioritisation",
+      "desc_up": "When the Two of Pentacles appears in a Tarot reading, it's safe to say you are juggling your priorities, roles and responsibilities. For example, you may be a working parent, a general manager of a business, an administrative assistant in a busy office, or someone who works multiple jobs. In the upright position, this card notes you are doing an excellent job of balancing these different priorities, and you can take on whatever life throws at you; but this Two reminds you that the line between coping with these demands and losing control is thin. You need to manage your time, energy and resources carefully so you do not lose your balance."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles03",
+      "name": "Three of Pentacles",
+      "value": "52",
+      "value_int": 52,
+      "meaning_up": "Teamwork, collaboration, learning, implementation",
+      "meaning_rev": "Disharmony, misalignment, working alone",
+      "desc_up": "The stonemason couldn't build the cathedral without the help of the architects, and they couldn't build it without him. Each person has an important role to play, and when they come together as a team, they can create something much more significant than if they were to undertake the project on their own. So, when the Three of Pentacles turns up in a Tarot reading, take it as a sign to collaborate with others, creating synergies to achieve big results."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles04",
+      "name": "Four of Pentacles",
+      "value": "53",
+      "value_int": 53,
+      "meaning_up": "Saving money, security, conservatism, scarcity, control",
+      "meaning_rev": "Over-spending, greed, self-protection",
+      "desc_up": "The Four of Pentacles asks you to examine your relationship with money. Are you accumulating wealth and investing your money wisely while still enjoying your day-to-day life? Or are you desperately clinging to every coin, afraid to spend your money for fear that you do not have enough or could lose it forever?\u003cbr\u003e\u003cbr\u003eIn its most positive state, the Four of Pentacles suggests that you have created wealth and abundance by maintaining a steady focus on your goals and acting conservatively. You are attentive to your long-term financial security, actively saving money and watching your expenses so you can accumulate wealth and live a comfortable lifestyle not just now but also in the future. You may consider a savings plan, family budget, a retirement plan, and safe investments, so you can protect what you accumulated over time and slowly and steadily increase your net worth."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles05",
+      "name": "Five of Pentacles",
+      "value": "54",
+      "value_int": 54,
+      "meaning_up": "Financial loss, poverty, lack mindset, isolation, worry",
+      "meaning_rev": "ecovery from financial loss, spiritual poverty",
+      "desc_up": "The Five of Pentacles is a card of financial loss and poverty. You have hit hard times, especially when it comes to your work, career, finances, and material possessions. You may have recently lost your job, your home, or your financial security. You no longer feel safe because it has all been stripped away from you in one blow. Your ego may also be bruised, especially since success often correlates to financial wealth; losing either can be a humbling blow to your self-esteem and sense of self-worth. The upside is that this is a Minor Arcana card with temporary effects (rather than a Major Arcana card which has a longer-term impact). This, too, shall pass."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles06",
+      "name": "Six of Pentacles",
+      "value": "55",
+      "value_int": 55,
+      "meaning_up": "Giving, receiving, sharing wealth, generosity, charity",
+      "meaning_rev": "Self-care, unpaid debts, one-sided charity",
+      "desc_up": "You may be like the wealthy man in this card, sharing your wealth and abundance with others. You have accumulated great wealth and are now in a position to offer financial assistance to those in need. You give generously through charitable donations, tithing or fundraising and enjoy the good feelings associated with helping others. Even if you are not financially wealthy, you offer up your time, energy, love and support to those who are in need, knowing it will be appreciated. Giving of your time or your wisdom is often just as spiritually fulfilling as giving away money or gifts, and the intangible gift of your presence is received just as well, if not better. There may be times when you wonder if you can truly afford to give generously to others - and the wise advice of the Six of Pentacles is to trust that every contribution you make is valued and will come back to you threefold."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles07",
+      "name": "Seven of Pentacles",
+      "value": "56",
+      "value_int": 56,
+      "meaning_up": "Long-term view, sustainable results, perseverance, investment",
+      "meaning_rev": "Lack of long-term vision, limited success or reward",
+      "desc_up": "The Seven of Pentacles shows you understand the value of putting in time and energy now for longer-term rewards and have a strong desire to invest in sustainable results. You are not looking for quick wins. You also want to make sure you are putting your attention on the right areas instead of wasting time and effort on tasks that will not deliver any value.\u003cbr\u003e\u003cbr\u003eWhen this card appears in a Tarot reading, see it as an invitation to step back from the day-to-day operations and look at the bigger picture. Celebrate what you have created and assess your progress so far. Are you on track? Are you focused on the right tasks for your goal? Be patient and appreciate the progress you have made so far. If your work has not yet paid off as planned, remember that your expectations may be unreasonable. There are no guarantees. Be grateful, focus on the present and do what you can with what you have."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles08",
+      "name": "Eight of Pentacles",
+      "value": "57",
+      "value_int": 57,
+      "meaning_up": "Apprenticeship, repetitive tasks, mastery, skill development",
+      "meaning_rev": "Self-development, perfectionism, misdirected activity",
+      "desc_up": "The Eight of Pentacles is a card of apprenticeship and mastery. When this card appears in a Tarot reading, you are working hard to improve your skills and become a master at what you do. You may have recently changed your work, education or financial circumstances, and now you are applying your sheer determination and concentration to master the new skill that you are learning. You are diligent and hard-working and you are applying yourself fully to whatever is at the centre of your attention. As you do the same task over and over, you work your way towards mastery of your craft, and through your perseverance and unwavering attention, you create success."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles09",
+      "name": "Nine of Pentacles",
+      "value": "58",
+      "value_int": 58,
+      "meaning_up": "Abundance, luxury, self-sufficiency, financial independence",
+      "meaning_rev": "Self-worth, over-investment in work, hustling",
+      "desc_up": "You have worked hard to create abundance in your life, and the Nine of Pentacles says now you can finally enjoy the fruits of your labour. Thanks to your independent efforts, self-confidence and discipline, you attained a well-deserved success and created a stable foundation for your material wealth and comfort. Now, sit back, relax and enjoy the luxuries and pleasures of the good life - money, leisure time, fun, material comfort and rest. You deserve it!"
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles10",
+      "name": "Ten of Pentacles",
+      "value": "59",
+      "value_int": 59,
+      "meaning_up": "Wealth, financial security, family, long-term success, contribution",
+      "meaning_rev": "The dark side of wealth, financial failure or loss",
+      "desc_up": "The Ten of Pentacles is a positive sign that you have reached a point of completion and accomplishment in your journey. As a Pentacles card, this sense of accomplishment is likely to be the result of a successful career path, smart financial investments, a stable home environment and a possible committed and long-term relationship. You have accumulated wealth and abundance through your hard work and dedication and can now relish sharing this wealth with others. This is one of those cards that promise everything will eventually come together and you will be proud of everything you achieved."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles11",
+      "name": "Page of Pentacles",
+      "value": "60",
+      "value_int": 60,
+      "meaning_up": "Manifestation, financial opportunity, skill development",
+      "meaning_rev": "Lack of progress, procrastination, learn from failure",
+      "desc_up": "The Page of Pentacles, like the Pages of all four Tarot suits, brings a welcome message of new beginnings, inspiration and the initial stages of a creative project or venture. Since Pentacles rule the material realm and correspond to the element of earth, this Page symbolises a burgeoning awareness of the value of money, wealth, possessions, career, and physical health, and how to manifest more of these material blessings. You welcome new opportunities to your material life - a new job, a new business, or a financial windfall - and wish to discover how to turn your dreams into reality."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles12",
+      "name": "Knight of Pentacles",
+      "value": "61",
+      "value_int": 61,
+      "meaning_up": "Hard work, productivity, routine, conservatism",
+      "meaning_rev": "Self-discipline, boredom, feeling 'stuck', perfectionism",
+      "desc_up": "The Knight of Pentacles, like the Knights of the other suits, represents work, effort, and the responsibility that follows upon the dreams and ideals of the Page. This Knight is the most hard-working, methodical and detailed-oriented character of the Tarot deck. He may not be the most inspiring or creative Knight, but he'll do the work to get the results he seeks, even if that work is highly repetitive or routine.\u003cbr\u003e\u003cbr\u003eWhen this card appears in a Tarot reading, you are working methodically towards your goals. You have a plan in place and are sticking to your schedule to get the job done. You may not work particularly quickly, but you are consistent, dedicated and committed to your goal. Put one foot in front of the other and finish the job. This card also asks you to continue doing what you are doing, plodding along and making gradual progress. No need to change your approach. Go with the flow, stick to your usual routines, and over time, you will reach your goals."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles13",
+      "name": "Queen of Pentacles",
+      "value": "62",
+      "value_int": 62,
+      "meaning_up": "Nurturing, practical, providing financially, a working parent",
+      "meaning_rev": "Financial independence, self-care, work-home conflict",
+      "desc_up": "The Queen of Pentacles is the nurturing mother of the material world. At home, she shows her love for others by cooking nutritious meals, maintaining a clean and inviting home, and giving warm cuddles to those who need it most. She is also able to work a full-time job and make a financial contribution to the household, often as the primary breadwinner. She is masterful at taking care of the practical needs of work, home and family, while also giving her love and support to those she cares about.\u003cbr\u003e\u003cbr\u003eWhen the Queen of Pentacles appears in a Tarot reading, you are embodying the ultimate working parent archetype. You care for your family and domestic responsibilities while also making a living for yourself and creating financial abundance. You can maintain a healthy balance between home and work by integrating the two and finding your place of 'flow' and alignment. You strive to create a warm and secure environment for your family and loved ones while giving your love and support freely."
+    },
+    {
+      "type": "minor",
+      "name_short": "pentacles14",
+      "name": "King of Pentacles",
+      "value": "63",
+      "value_int": 63,
+      "meaning_up": "Wealth, business, leadership, security, discipline, abundance",
+      "meaning_rev": "Financially inept, obsessed with wealth and status, stubborn",
+      "desc_up": "The King of Pentacles represents material wealth, financial abundance, and worldly success. This King is a faithful provider; he uses his ambition and confidence to create wealth for himself and others and generates his self-worth from what he has accumulated and can share with others. He is also a fatherly figure who provides others with advice, guidance and wisdom, especially in financial and work-related matters.\u003cbr\u003e\u003cbr\u003eWhen the King of Pentacles appears in a Tarot reading, you are confident and successful at attracting and managing wealth. Not only do you identify opportunities for growth and success, but you also draw upon your self-discipline and control to manage your wealth and invest it wisely for the long-term."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands01",
+      "name": "Ace of Wands",
+      "value": "64",
+      "value_int": 64,
+      "meaning_up": "Inspiration, new opportunities, growth, potential",
+      "meaning_rev": "An emerging idea, lack of direction, distractions, delays",
+      "desc_up": "As an Ace, this Wands card brings you pure potential - this time in the spiritual, energetic realm. Ideas are flowing to you, motivating and inspiring you to pursue a new path. You are open to receiving new opportunities that align with your Higher Self. A whole world of possibility is available to you.\u003cbr\u003e\u003cbr\u003eThe Ace of Wands encourages you to follow your heart and live your passion. If you feel a strong pull towards a new project or path, but are questioning whether it will work, then this card gives you a gentle nudge to pursue your passion. You can always start out small, treating the project or idea as an experiment or trial. Then, if it feels good, keep doing it; and if it doesn't, make adjustments and try again. Let your energy, dedication and motivation be your guides.\u003cbr\u003e\u003cbr\u003eIf you have been looking for a sign about whether this is the right project, then the Ace of Wands is a clear YES! "
+    },
+    {
+      "type": "minor",
+      "name_short": "wands02",
+      "name": "Two of Wands",
+      "value": "65",
+      "value_int": 65,
+      "meaning_up": "Future planning, progress, decisions, discovery",
+      "meaning_rev": "Personal goals, inner alignment, fear of unknown, lack of planning",
+      "desc_up": "The Two of Wands takes the spark of inspiration from the Ace of Wands and turns it into a clear action plan. You went through the discovery phase and know what you want to manifest - now you need to figure out how. You are exploring your options and carefully plotting out the path ahead, accounting for all possibilities and potential challenges. You are open to growth and exploring new territories, so long as you maintain a level of certainty that your efforts will work out in the end.\u003cbr\u003e\u003cbr\u003eWhen the Two of Wands appears in a Tarot reading, you are not ready to make your move - it is more important that you establish a clear plan before proceeding. The Two of Wands is also about discovery, particularly as you step outside your comfort zone and explore new worlds and experiences."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands03",
+      "name": "Three of Wands",
+      "value": "66",
+      "value_int": 66,
+      "meaning_up": "Progress, expansion, foresight, overseas opportunities",
+      "meaning_rev": "Playing small, lack of foresight, unexpected delays",
+      "desc_up": "While the Two of Wands speaks to planning for the future from a place of safety and comfort, the Three of Wands shows that your plans are now well underway and you are considering even more opportunities to expand your current strategy and maximise your ultimate potential. Everything is progressing steadily and as expected, thanks to your solid preparation and ongoing drive.\u003cbr\u003e\u003cbr\u003eThe Three of Wands signals the many chances available to you to broaden your horizons through study, travel, business enterprise and learning. You are becoming more aware of the opportunities that exist for you right now - and there are still more to come."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands04",
+      "name": "Four of Wands",
+      "value": "67",
+      "value_int": 67,
+      "meaning_up": "Celebration, joy, harmony, relaxation, homecoming",
+      "meaning_rev": "Personal celebration, inner harmony, conflict with others, transition",
+      "desc_up": "The Four of Wands is a card of joyful celebration, blissful happiness and appreciation for the good things in life. When this card appears in a Tarot reading, it is the perfect time to celebrate with those you love most. You may commemorate a significant event or milestone such as a wedding, birthday, homecoming or reunion. Or, you may invite a few of your favourite friends over for an intimate dinner for no particular reason except to revel in each other's company. Relax and let your hair down - enjoy this special time together!\u003cbr\u003e\u003cbr\u003eThe Four of Wands can show that you are returning home or to the people and places familiar to you. You feel supported and secure, knowing you are with those who love you and care about you."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands05",
+      "name": "Five of Wands",
+      "value": "68",
+      "value_int": 68,
+      "meaning_up": "Conflict, disagreements, competition, tension, diversity",
+      "meaning_rev": "Inner conflict, conflict avoidance, tension release",
+      "desc_up": "In the Tarot, the Fives typically represent conflict and change, and the Five of Wands is no exception. This card indicates that you are in the midst of battle, tension, and competition with others and it is impacting your ability to move forward with your goals. Rather than being able to work towards a common goal, you are running up against constant opposition.\u003cbr\u003e\u003cbr\u003eWith the Five of Wands, everyone is fighting to be heard. But guess what? No one is listening. When everybody has a different opinion, but no-one is stopping to hear each other out, conflict and misunderstandings will run rampant. If you find yourself in this situation, see it as an opportunity to rise above the chaos and disorder. Take a moment to listen to what others have to say - even if you agree to disagree. The key is to tune in to one another and allow each person to make their case. And perhaps, in the process, their opinions may become softer and quieter. They may also give you the respect you're seeking and listen to your viewpoint."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands06",
+      "name": "Six of Wands",
+      "value": "69",
+      "value_int": 69,
+      "meaning_up": "Success, public recognition, progress, self-confidence",
+      "meaning_rev": "Private achievement, personal definition of success, fall from grace, egotism",
+      "desc_up": "The Six of Wands appears when you have reached an important milestone or achieved a significant goal, and you are confident, self-assured, and successful. You harnessed your strengths and talents to bring about a happy outcome in your endeavours and made it through the chaos of the Five of Wands, minimising your distractions and focusing on the task at hand. Yes, there were challenges along the way, but you overcame them by concentrating your energies on the one target.\u003cbr\u003e\u003cbr\u003eThe Six of Wands suggests that not only have you achieved your goals, but you are also receiving public acknowledgement for your efforts. You may have recently received an award, acclaim or recognition from your peers for your work. It may even be just a pat on the back, but this attention is a big boost to your confidence and gives you the strength to continue your endeavours."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands07",
+      "name": "Seven of Wands",
+      "value": "70",
+      "value_int": 70,
+      "meaning_up": "Challenge, competition, protection, perseverance",
+      "meaning_rev": "Exhaustion, giving up, overwhelmed",
+      "desc_up": "The Seven of Wands may appear when you hold a contentious point of view or wish to voice your opinion in a public forum. Be ready to support your argument and back yourself. Stand firm in your conviction of what you believe (and why) so that others do not topple you from your mountain of self-belief.\u003cbr\u003e\u003cbr\u003eSometimes, this threat or opposition may catch you by surprise, and you feel inadequately prepared for such a battle. Just like the man in the card has rushed to put his shoes on and ended up with a mismatched pair, you must scramble to fight even though you don't have everything in place. To be better prepared next time, the Seven of Wands encourages you to map out any potential threats or risks before moving ahead with your plans. That way, you can have a 'worst-case scenario' plan ready to go."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands08",
+      "name": "Eight of Wands",
+      "value": "71",
+      "value_int": 71,
+      "meaning_up": "Movement, fast paced change, action, alignment, air travel",
+      "meaning_rev": "Delays, frustration, resisting change, internal alignment",
+      "desc_up": "The Eight of Wands says the struggles of the Seven of Wands have now all but cleared and you have the freedom and space to move forward with your plans once again. This Eight is a dynamic card, containing a high level of energy that propels you forward to reach your goals at a much faster pace than ever before. You can expect to be very busy, but this is one of those 'good busy' periods during which you are enthusiastic about the progress you are making.\u003cbr\u003e\u003cbr\u003eThe Eight of Wands encourages you to go with the flow; don't resist it. Everything is moving fast right now, so make the most of this forward momentum to manifest your goals and dreams. Allow the energy of the Universe to flow through you and propel you closer to your goal. Trying to slow things down because you're not ready or you're fearful about the unknown will just waste this opportunity. Use the energy instead to fuel positive change and produce significant results."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands09",
+      "name": "Nine of Wands",
+      "value": "72",
+      "value_int": 72,
+      "meaning_up": "Resilience, courage, persistence, test of faith, boundaries",
+      "meaning_rev": "Inner resources, struggle, overwhelm, defensive, paranoia",
+      "desc_up": "The Nine of Wands comes as a sign that even in the face of adversity, you stand tall and strong. You may be on the edge of exhaustion, but you are resilient, persistent, and ready to do what it takes to get to the finish line.\u003cbr\u003e\u003cbr\u003eThis card may also come when you feel battered and bruised, having endured significant challenges and struggles along your path. Just when you think you are making progress, you suffer another setback. The Nine of Wands asks you to trust that this is merely a test of your 'grit' and resilience, and know that every time you overcome an obstacle, you are getting stronger. You have the inner resources necessary to overcome any difficulty you encounter, even though it may seem impossible at the time. See this Nine as an assurance that you will eventually prosper if you maintain your position. And, if you do not succeed at first, then try again."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands10",
+      "name": "Ten of Wands",
+      "value": "73",
+      "value_int": 73,
+      "meaning_up": "Burden, extra responsibility, hard work, completion",
+      "meaning_rev": "Doing it all, carrying the burden, delegation, release",
+      "desc_up": "The Ten of Wands appears when you are unconsciously taking on extra responsibility and finding yourself feeling weighed down, exhausted and burnt out. You may try to do everything at once, even though you know it is adding extra pressure to your daily life. The Ten of Wands asks you to stop and examine your current lifestyle or work. Assess which activities or tasks are urgent or important, particularly concerning your broader goals. You may need to use various time management or prioritisation methods to determine where best to spend your time and which tasks you can drop. Your goal needs to be higher efficiency while also freeing yourself up for rest and relaxation when you need it.\u003cbr\u003e\u003cbr\u003eThe good news is that the Tens in Tarot represent the completion of a cycle, and with the Ten of Wands, the end is in sight!"
+    },
+    {
+      "type": "minor",
+      "name_short": "wands11",
+      "name": "Page of Wands",
+      "value": "74",
+      "value_int": 74,
+      "meaning_up": "Inspiration, ideas, discovery, limitless potential, free spirit",
+      "meaning_rev": "Newly-formed ideas, redirecting energy, self-limiting beliefs, a spiritual path",
+      "desc_up": "With the Page of Wands, you are inclined to give anything and everything a go. You embrace the opportunity to start out on a new journey or project and see where it takes you. You do not necessarily have a solid plan in place, nor do you really know where you are headed, but you are excited about the possibilities.\u003cbr\u003e\u003cbr\u003eYou have a gift for dreaming up new creative ideas unfettered by the burdens of everyday life. Nothing will get in the way of your dreams!"
+    },
+    {
+      "type": "minor",
+      "name_short": "wands12",
+      "name": "Knight of Wands",
+      "value": "75",
+      "value_int": 75,
+      "meaning_up": "Energy, passion, inspired action, adventure, impulsiveness",
+      "meaning_rev": "Passion project, haste, scattered energy, delays, frustration",
+      "desc_up": "While the Page of Wands marks the initial spark of a new idea, the Knight of Wands shows the actual pursuit of that idea. When this card appears in a Tarot reading, you are charged up with energy, passion, motivation, and enthusiasm, and you channel that energy through your inspired action. You have a clear vision about what you want to create and, fuelled by your passion and inspiration, you are now moving forward with leaps and bounds to turn your vision into reality. This card is your sign to go for it!"
+    },
+    {
+      "type": "minor",
+      "name_short": "wands13",
+      "name": "Queen of Wands",
+      "value": "76",
+      "value_int": 76,
+      "meaning_up": "Courage, confidence, independence, social butterfly, determination",
+      "meaning_rev": "Self-respect, self-confidence, introverted, re-establish sense of self",
+      "desc_up": "The Queen of Wands reminds you that you are upbeat, courageous, and determined. You are here to see through your creative visions and life purpose, even in the face of adversity and challenge. Highly self-actualised and self-aware, you know how to best channel your strengths and weaknesses to achieve your goals. You are optimistic and full of ideas to share with others. You know what you want and how to get it, and are masterful at engaging with others to achieve your goals. Stay fiercely determined and focused on your goals while being friendly and optimistic with those around you.\u003cbr\u003e\u003cbr\u003eThe Queen of Wands asks you to be bold in your undertakings and actions. Don't be afraid to own your real power and put it out into the world. You have so much to offer - so shine your light bright! Believe in yourself and what you stand for, and don't be afraid to speak up and be heard. No one will silence you."
+    },
+    {
+      "type": "minor",
+      "name_short": "wands14",
+      "name": "King of Wands",
+      "value": "77",
+      "value_int": 77,
+      "meaning_up": "Natural-born leader, vision, entrepreneur, honour",
+      "meaning_rev": "Impulsiveness, haste, ruthless, high expectations",
+      "desc_up": "The King of Wands represents pure fire energy in its masculine form. Unlike the other Wands court cards, the King is not so interested in creation and creativity, or in dreaming up ideas and implementing them himself. Instead, he is more inclined to take an idea and then enlist others to help him actualise it. Thus, when the King of Wands appears in a Tarot reading, it is a sign you are stepping into the role of a visionary leader, ready to direct your people towards a common goal. You have a clear vision of where you want to go, and now you are manifesting that vision with the support of those around you. Others naturally gravitate towards you because you are charismatic, focused, and determined, and they believe in you and your vision. They want to be a part of what you are manifesting and are here to support you one hundred percent of the way. You are also masterful at getting other people to do your work for you while keeping them on-side throughout the process."
+    }
+  ]
+}

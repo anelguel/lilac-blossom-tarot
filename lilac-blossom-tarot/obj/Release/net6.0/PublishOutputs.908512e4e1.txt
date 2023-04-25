@@ -1,0 +1,13 @@
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\lilac-blossom-tarot.exe
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\lilac-blossom-tarot.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\lilac-blossom-tarot.deps.json
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\lilac-blossom-tarot.runtimeconfig.json
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\lilac-blossom-tarot.pdb
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Options.dll
+D:\src\Personal\lilac-blossom-tarot\lilac-blossom-tarot\lilac-blossom-tarot\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
